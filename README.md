@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tomas Svoboda (@meloun67)
+- 👋 Hi, I’m Tomas Svoboda (@meloun67), PhD. student at University of Chemistry and Technology in Prague.
 - 👀 I’m interested in mathematical modeling of chromatography. That means solving convection-diffusion-reaction PDEs.
 - 🌱 I’m currently learning numerical method for solving PDEs.
 - 💞️ I’m looking to collaborate on continuous chromatography SMB process development.
